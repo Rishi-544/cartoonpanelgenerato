@@ -1,0 +1,25 @@
+.navbar {
+    background: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 1vmax 2vmax;
+}
+
+.logo {
+    width: 3vmax;
+    height: 3vmax;
+    margin-right: 1.5vmax;
+}
+
+.name {
+    font-size: 2vmax;
+    font-weight: 600;
+}
+
+.options {
+    display: flex;
+    gap: 2vmax;
+    justify-content: right;
+    padding: 1vmax 2vmax;
+}
